@@ -2,6 +2,8 @@
 - A multiuser social media platform where people can share their thoughts with others.
 - The main goal of this project was to practice building the front part using React and react-router, and the backend part using node.js, Express, and MongoDB. I also learned how to create APIs, design API endpoints, and connect the REST API smoothly within the project.
 
+<h3>Frontend link: https://github.com/sadman59m/postIt-frontend-latest</h3>
+
 # Live site
 Checkout live: https://post-it-frontend-latest-ek3y.vercel.app/
 - Note: The backend is hosted on render.com which makes the server inactive after 15 minutes of inactivity. So for the
